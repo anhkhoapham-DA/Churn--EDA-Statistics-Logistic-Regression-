@@ -26,7 +26,6 @@ Which customer characteristics are associated with churn, and how large are the 
 ## Repository structure
 - `churn_eda_statistics_logistic_regression.ipynb`: full analysis
 - `dataset/`: place `Churn_Modelling.csv` here
-- `requirements.txt`: pandas, numpy, matplotlib, seaborn, scipy, statsmodels
 
 ## Limitations
 Cross-sectional data, associations only. No out-of-sample evaluation of predictive performance. Recommended actions are hypotheses to be validated.
