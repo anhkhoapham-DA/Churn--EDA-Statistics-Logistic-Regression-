@@ -17,8 +17,8 @@ Which customer characteristics are associated with churn, and how large are the 
 - Interpretation with odds ratios (95% CI) and average marginal effects (AME)
 
 ## Key findings
-- Age: churn is 56.2% in the 51–60 group vs 24.8% in 61+; fitted peak ≈ 59 years
-- Products: 2 products show the lowest churn (7.6%); 3+ products show very high churn (small group, n = 326, less stable estimates)
+- Age (non-monotonic): churn is 56.2% in the 51–60 group vs 24.8% in 61+; fitted peak ≈ 59 years
+- Products (non-monotonic): 2 products show the lowest churn (7.6%); 3+ products show very high churn (small group, n = 326, less stable estimates)
 - Germany vs France: OR ≈ 2.64 (95% CI 2.28–3.07), AME ≈ +12 percentage points
 - Active vs inactive members: AME ≈ −11 percentage points
 - Tenure, estimated salary and credit card ownership: no sufficient evidence of association
